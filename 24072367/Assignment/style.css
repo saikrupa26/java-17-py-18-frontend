@@ -1,0 +1,20 @@
+/* basic selector */
+h1{
+    color: blue;
+
+}
+p{
+    color: green;
+}
+/* class selector */
+.highlight{
+    color: orange;
+}
+/* ID selectors */
+#unique{
+    color: purple;
+}
+/* grouping selectors */
+h1,a{
+    color: red;
+}
